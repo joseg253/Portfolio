@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebf85915.chunk.css",
+    "main.js": "/static/js/main.8253d9fd.chunk.js",
+    "main.js.map": "/static/js/main.8253d9fd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21e4bbbf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21e4bbbf.js.map",
+    "static/js/2.97cd0da9.chunk.js": "/static/js/2.97cd0da9.chunk.js",
+    "static/js/2.97cd0da9.chunk.js.map": "/static/js/2.97cd0da9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.438e830747912a3edeec213288b6211b.js": "/precache-manifest.438e830747912a3edeec213288b6211b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ebf85915.chunk.css.map": "/static/css/main.ebf85915.chunk.css.map",
+    "static/js/2.97cd0da9.chunk.js.LICENSE.txt": "/static/js/2.97cd0da9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/backgroud12.0312d5e1.jpg",
+    "static/media/ecommerce.png": "/static/media/ecommerce.870bc680.png",
+    "static/media/facebook.png": "/static/media/facebook.337fbc37.png",
+    "static/media/headshot.jpg": "/static/media/headshot.0152bb3d.jpg",
+    "static/media/html-css-javascript-lg.jpg": "/static/media/html-css-javascript-lg.54fd4234.jpg",
+    "static/media/react.png": "/static/media/react.f370c1e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21e4bbbf.js",
+    "static/js/2.97cd0da9.chunk.js",
+    "static/css/main.ebf85915.chunk.css",
+    "static/js/main.8253d9fd.chunk.js"
+  ]
+}
